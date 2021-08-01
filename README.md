@@ -1,4 +1,9 @@
 # graphqurl
+## DISARTICULATE -- forked, reverted to v0.3.3 & Frozen
+## Thanks for the fish!
+
+
+### Check out https://github.com/hasura/graphqurl if you want whatever's newer than this
 
 Made by the team at [hasura.io](https://hasura.io), `graphqurl` is a curl like CLI for GraphQL:
 - CLI for making GraphQL queries with autocomplete
@@ -8,8 +13,6 @@ Made by the team at [hasura.io](https://hasura.io), `graphqurl` is a curl like C
 - Export GraphQL schema
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/graphqurl.svg)](https://npmjs.org/package/graphqurl)
-
 [![CircleCI](https://circleci.com/gh/hasura/graphqurl/tree/master.svg?style=shield)](https://circleci.com/gh/hasura/graphqurl/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/hasura/graphqurl?branch=master&svg=true)](https://ci.appveyor.com/project/hasura-bot/graphqurl/branch/master)
 [![Downloads/week](https://img.shields.io/npm/dw/graphqurl.svg)](https://npmjs.org/package/graphqurl)
